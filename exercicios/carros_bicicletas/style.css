@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #111;
+  padding-top: 40px;
+}
+
+
+.div-carro,
+.div-bicicleta {
+  background-color: #111;
+  margin: 30px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+h2 {
+  color: white;
+  margin: 10px;
+}
+
+.descricao {
+  color: #b2b2b2;
+  margin: 10px;
+}
+
+span {
+  color: #febe01;
+}
+
+.botao {
+  background-color: #febe01;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 4px;
+  color: #332200;
+  margin: 10px;
+}
